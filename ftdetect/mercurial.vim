@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead */hg-editor* set ft=mercurial
+autocmd BufNewFile,BufRead hg-editor* set ft=mercurial
